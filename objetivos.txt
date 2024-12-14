@@ -1,2 +1,3 @@
 Objetivo 1: Extender mis conocimientos de programación al ámbito de desarrollo web.
 Objetivo 2: Adquirir las bases para crear un portfolio sólido de proyectos que me sirvan como carta de presentación al buscar empleo.
+Objetivo 3: Convertirme en un desarrollador capaz de construir aplicaciones completas cubriendo todas las capas de la arquitectura web.
